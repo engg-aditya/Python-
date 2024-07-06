@@ -1,0 +1,11 @@
+# variable method 
+num1=5
+num2=7
+num3=num1+num2
+# print("The Addition of Two Numbers is",num1+num2)
+print("The Addition of Two Numbers is",num3)
+
+# Input Method 
+a=float(input("Enter Your First Number"))
+b=float(input("Enter Your Second Number"))
+print("The Addition of Two Number is ",a+b)
